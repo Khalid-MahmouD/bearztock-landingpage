@@ -114,10 +114,10 @@ export default function LandingPage() {
                 <div className="space-y-4">
                   <h2 className="text-3xl font-bold">Our Mission</h2>
                   <p className="text-gray-400">
-                    We're on a mission to redefine streetwear by combining bold
-                    designs with sustainable practices. Every piece we create is
-                    a statement of authenticity, designed to inspire confidence
-                    and creativity in our community.
+                    We&apos;re on a mission to redefine streetwear by combining
+                    bold designs with sustainable practices. Every piece we
+                    create is a statement of authenticity, designed to inspire
+                    confidence and creativity in our community.
                   </p>
                 </div>
                 <div className="relative h-[300px]">
@@ -135,9 +135,9 @@ export default function LandingPage() {
                 <div className="space-y-4">
                   <h2 className="text-3xl font-bold">Sustainable Fashion</h2>
                   <p className="text-gray-400">
-                    Sustainability isn't just a buzzword for us—it's a
+                    Sustainability isn&apos;t just a buzzword for us—it&apos;s a
                     commitment. From sourcing eco-friendly materials to
-                    implementing ethical manufacturing processes, we're
+                    implementing ethical manufacturing processes, we&apos;re
                     dedicated to creating fashion that looks good and does good.
                   </p>
                 </div>
